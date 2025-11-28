@@ -15,6 +15,11 @@ This study replicates pioneering work from the 1940s-1950s on visual perception,
 While often associated with Stevens' Power Law (1957), the specific experiment we're replicating focuses on reaction time in discrimination tasks, building on earlier work by researchers like Cattell (1902) and Henmon (1906).
 These researchers discovered that the time needed to discriminate between two stimuli follows a predictable mathematical relationship with the size of the difference between them—a finding that helped establish fundamental principles still used in vision science today.
 
+
+    We are using a different data collection tool
+    We randomly generated the size of the comparison squares from a uniform distribution
+
+
 ## Background
 
 More background: <https://aaronpeikert.github.io/repro-collab/self-paced/background-on-psychophysics.html>
